@@ -13,7 +13,7 @@
 
 **Author.** Dr. Harry Patria, Chief Data AI at Patria and Co.
 **Date.** July 2026
-**Institution.** Patria and Co., Jakarta, Singapore, Aberdeen
+**Institution.** Patria and Co., Indonesia and UK
 
 ---
 
