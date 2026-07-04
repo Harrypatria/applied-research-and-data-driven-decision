@@ -63,7 +63,7 @@ Every claim in the deck is reproduced in code, and every number in the code is e
 Click the badge below to open the notebook in Colab. All packages install on first run.
 
 <p align="left">
-  <a href="https://colab.research.google.com/github/harrypatria/applied-research-data-driven-decision/blob/main/Applied_Research_Case_Studies.ipynb">
+  <a href=https://colab.research.google.com/drive/1SI-k2dBROXK9lP7j2nbODbqeDNpNb3Jn?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
   </a>
 </p>
